@@ -54,7 +54,7 @@ body{
 .header__poster-text {
   font-family: var(--comf);
   font-weight: 400;
-  color: white;
+  color: violet;
   width: 170px;
   font-size: 16px;
   line-height: 18px;
@@ -142,7 +142,7 @@ body{
 .logo__text {
   font-family: var(--comf);
   font-weight: 700;
-  color: white;
+  color: violet;
   margin-left: 5px;
 }
 
